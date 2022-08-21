@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "returnLocalVariable",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "returnStateVariable",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/21-Aug-task-2.sol": "task2"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/21-Aug-task-2.sol": {
+			"keccak256": "0x90567d5a347d91ef9506bf05e92f0c4c89a23be4aff614112035492a6bb66eb6",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://d13d21e29c71035bf9eac55ab6df92ef13b46520b135c432b76a0b7cab6e6191",
+				"dweb:/ipfs/QmNPvN4PDftpUbFPWxLrhSxS8jfYdR49aa4KX7cPbHYDo4"
+			]
+		}
+	},
+	"version": 1
+}

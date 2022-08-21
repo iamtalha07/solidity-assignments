@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "printMessage",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/21-Aug-task-1.sol": "task1"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/21-Aug-task-1.sol": {
+			"keccak256": "0xf7c4f50249d677e2d4939404a42f2ea7faccb0365c0097177fa119a80be0a5a9",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://facc02c0eb09b646300755beebca91fe5a47f6b103dd2edd96805711384418ac",
+				"dweb:/ipfs/QmaR73JSEW9zw3LLQ83Q4cewsECiPMvBgkuQzQnTvWGbGb"
+			]
+		}
+	},
+	"version": 1
+}
