@@ -117,7 +117,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/24-Aug-assignment-2.sol": "task1"
+			"contracts/24-Aug-assignment-2.sol": "assignment2"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -132,11 +132,11 @@
 	},
 	"sources": {
 		"contracts/24-Aug-assignment-2.sol": {
-			"keccak256": "0x56edb078e4311143a2c2296f62055c6885313089a40cfc2af4887b6420b5ea6c",
+			"keccak256": "0x8bfa9eaa4d663036f7d5fa0f6fe81944c54a3cd9e76a6774d54f37344feee42a",
 			"license": "Unlicensed",
 			"urls": [
-				"bzz-raw://d327e1e5b7730e6f44cba731bff6e0758ab289daf3cc33b3085dbd15c2ea4848",
-				"dweb:/ipfs/QmeKiKnpyqFrMJr671jUNeyvEkYDNHaXsCkCTLPzZHLyxj"
+				"bzz-raw://cd88fb28c5c08969a12217a889190417f615192c662f5ec7298af420199abfde",
+				"dweb:/ipfs/QmXpHDozQLEUa4tHd7kxCbLoX8VGEpFimSETt86Bndb3aJ"
 			]
 		}
 	},
